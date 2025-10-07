@@ -1,0 +1,440 @@
+{
+  "hero": "haze",
+  "display_name": "Haze — Default",
+  "build": "ID: 338310 | Gun Haze build",
+  "items": [
+    {
+      "name": "Optional",
+      "position": [1356, 134],
+      "size": [248, 128],
+      "tooltip": {
+          "text": "Buy ONLY if you get a lot of damage, \nand going to the base every time \nis not an option (only 1 item, I recommend \nthe third one)",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-15, 130]
+      },
+      "sequence": [
+        {
+          "time": 1,
+          "stages": [
+            {"duration": 300, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 300, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Headshot Booster",
+      "position": [658, 134],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "Shoot at the head \ncausing increased damage.\n(If the heroes are fat against you, \ndon't let them dominate the line)",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-70, 130]
+      },
+      "sequence": [
+        {
+          "time": 1,
+          "stages": [
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 15, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rapid Rounds",
+      "position": [742, 134],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "Increases the rate of fire",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-40, -30]
+      },
+      "sequence": [
+        {
+          "time": 70,
+          "stages": [
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 15, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green items",
+      "position": [826, 134],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "If it hurts on the line, \nbuy only one of the two \n(I recommend the first item)",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-10, 130]
+      },
+      "sequence": [
+        {
+          "time": 130,
+          "stages": [
+            {"duration": 150, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 60, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "More Damage",
+      "position": [994, 134],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "To choose priority (buy both): \n1) Accelerated recharge \n(If everything is just not bad) \n2) Rate of fire \n(If you dominate the line)",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [10, 130]
+      },
+      "sequence": [
+        {
+          "time": 300,
+          "stages": [
+            {"duration": 120, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 30, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lifesteal",
+      "position": [1162, 134],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "For survival",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-10, -30]
+      },
+      "sequence": [
+        {
+          "time": 470,
+          "stages": [
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 30, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+Damage",
+      "position": [659, 330],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "In any order, the main \nitems of the build. \nThey give you the opportunity \nto participate in some fights",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-40, 130]
+      },
+      "sequence": [
+        {
+          "time": 530,
+          "stages": [
+            {"duration": 370, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 180, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+Life",
+      "position": [827, 330],
+      "size": [248, 134],
+      "tooltip": {
+          "text": "They give survival \nFortitude - necessarily \nResilience one of two, \ndepending on the type of enemy damage.",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-5, 130]
+      },
+      "sequence": [
+        {
+          "time": 530,
+          "stages": [
+            {"duration": 370, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 180, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lucky Shot",
+      "position": [1236, 330],
+      "size": [81, 134],
+      "tooltip": {
+          "text": "Chance for increased damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-70, 130]
+      },
+      "sequence": [
+        {
+          "time": 1000,
+          "stages": [
+            {"duration": 240, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Escalating Resiliance",
+      "position": [1151, 330],
+      "size": [81, 134],
+      "tooltip": {
+          "text": "Chance for increased damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-70, 90]
+      },
+      "sequence": [
+        {
+          "time": 1500,
+          "stages": [
+            {"duration": 180, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frenzy",
+      "position": [1319, 330],
+      "size": [81, 134],
+      "tooltip": {
+          "text": "There is more damage on low HP",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-70, 50]
+      },
+      "sequence": [
+        {
+          "time": 1800,
+          "stages": [
+            {"duration": 180, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    }
+,
+    {
+      "name": "Last Item",
+      "position": [742, 653],
+      "size": [166, 134],
+      "tooltip": {
+          "text": "Whatever you want, but \nI suggest one of these two: \n1) Non-resistance to magic \n2) Increased regen when dealing damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-50, 130]
+      },
+      "sequence": [
+        {
+          "time": 2000,
+          "stages": [
+            {"duration": 300, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 300, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "time": 105,
+      "text": "After 15 s. - Spawn of small camps and boxes",
+      "sound": "sounds/pre.wav",
+      "repeat_interval": 240,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 120,
+      "text": "Spawn of small camps",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 240,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 120,
+      "text": "Spawn of the boxes",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 180,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 285,
+      "text": "After 15 seconds - the rune spawn",
+      "sound": "sounds/pre.wav",
+      "repeat_interval": 300,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 300,
+      "text": "Spawn runes",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 300,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 345,
+      "text": "After 15 s. - Spawn of medium camps",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 360,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 360,
+      "text": "Spawn of medium camps",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 360,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 360,
+      "text": "Spawn Casino",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 180,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 465,
+      "text": "After 15 seconds - Spawn hard camps",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 480,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 480,
+      "text": "Spawn hard camps",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 480,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 600,
+      "text": "Mid Boss Spawn",
+      "sound": "sounds/boss.wav",
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 14,
+          "padding": 6,
+          "border_radius": 8
+      }
+    }
+  ]
+}
