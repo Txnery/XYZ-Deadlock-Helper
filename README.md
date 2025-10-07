@@ -23,7 +23,6 @@ Keyboard shortcuts:
 - "END" - pause timer
 
 # Preview
-...
 ![Timer]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/1.png)) <br>
 ![Event Notification]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/2.png)) <br>
 ![Build Helper]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/3.png)) <br>
@@ -77,6 +76,7 @@ Twitch: Valtheriss
 
 # License
 Please view the license section for more details.
+
 
 
 
