@@ -25,10 +25,13 @@ Keyboard shortcuts:
 # Preview
 ## Build Helper
 ![Build Helper](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/3.png?raw=true) <br>
+The backlight has different levels of criticality for purchase, as well as fully customized color and other parameters.
 ## Event Notification
 ![Event Notification](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/2.png?raw=true) <br>
+The events also have full customization for each specific hero, it is possible to add free
 ## Timer
 ![Timer](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/1.png?raw=true) <br>
+All events are linked to a single timer
 
 # For Build Creators
 Names used for JSON / Names from the game
@@ -79,6 +82,7 @@ Twitch: Valtheriss
 
 # License
 Please view the license section for more details.
+
 
 
 
