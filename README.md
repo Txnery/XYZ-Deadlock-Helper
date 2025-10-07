@@ -22,6 +22,8 @@ Keyboard shortcuts:
 - "ESC" - close shop
 - "END" - pause timer
 
+(Standard builds only support 1920 x 1080 resolution. And also for the program to work, the game must be run in borderless mode.)
+
 # Preview
 ## Build Helper
 ![Build Helper](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/3.png?raw=true) <br>
@@ -82,6 +84,7 @@ Twitch: Valtheriss
 
 # License
 Please view the license section for more details.
+
 
 
 
