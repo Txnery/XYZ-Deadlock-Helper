@@ -1,12 +1,12 @@
 {
   "hero": "bull",
   "display_name": "Abrams — Default",
-  "build": "ID: 338310 | Gun Haze build",
+  "build": "ID: 339939 | Melle Abrams build",
   "items": [
     {
       "name": "Optional",
-      "position": [1356, 134],
-      "size": [248, 128],
+      "position": [1313, 133],
+      "size": [331, 128],
       "tooltip": {
           "text": "Buy ONLY if you get a lot of damage, \nand going to the base every time \nis not an option (only 1 item, I recommend \nthe third one)",
           "bg_color": "rgba(0,0,0,255)",
@@ -14,7 +14,7 @@
           "border_radius": 8,
           "padding": 4,
           "font_size": 14,
-          "offset": [-15, 130]
+          "offset": [5, 130]
       },
       "sequence": [
         {
@@ -28,155 +28,59 @@
       ]
     },
     {
-      "name": "Headshot Booster",
-      "position": [658, 134],
+      "name": "Optional2 3200",
+      "position": [1033, 133],
       "size": [81, 128],
       "tooltip": {
-          "text": "Shoot at the head \ncausing increased damage.\n(If the heroes are fat against you, \ndon't let them dominate the line)",
+          "text": "If dominate on line, or something",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
           "padding": 4,
           "font_size": 14,
-          "offset": [-70, 130]
+          "offset": [-30, 130]
       },
       "sequence": [
         {
           "time": 1,
           "stages": [
-            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 15, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 300, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 300, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
             {"duration": 9999, "color": "gray", "border": "2px solid gray"}
           ]
         }
       ]
     },
     {
-      "name": "Rapid Rounds",
-      "position": [742, 134],
+      "name": "Last Item 14400",
+      "position": [1077, 328],
       "size": [81, 128],
       "tooltip": {
-          "text": "Increases the rate of fire",
+          "text": "Buy after the liner to survive \n(In the end, either leave \nit or change it to something \nstronger)",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
           "padding": 4,
           "font_size": 14,
-          "offset": [-40, -30]
+          "offset": [-50, 130]
       },
       "sequence": [
         {
-          "time": 70,
+          "time": 1,
           "stages": [
-            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 15, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+            {"duration": 300, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 570, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 30, "color": "gray", "border": "2px solid gray"}
           ]
         }
       ]
     },
     {
-      "name": "Green items",
-      "position": [826, 134],
-      "size": [166, 128],
-      "tooltip": {
-          "text": "If it hurts on the line, \nbuy only one of the two \n(I recommend the first item)",
-          "bg_color": "rgba(0,0,0,255)",
-          "text_color": "white",
-          "border_radius": 8,
-          "padding": 4,
-          "font_size": 14,
-          "offset": [-10, 130]
-      },
-      "sequence": [
-        {
-          "time": 130,
-          "stages": [
-            {"duration": 150, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 60, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
-          ]
-        }
-      ]
-    },
-    {
-      "name": "More Damage",
-      "position": [994, 134],
-      "size": [166, 128],
-      "tooltip": {
-          "text": "To choose priority (buy both): \n1) Accelerated recharge \n(If everything is just not bad) \n2) Rate of fire \n(If you dominate the line)",
-          "bg_color": "rgba(0,0,0,255)",
-          "text_color": "white",
-          "border_radius": 8,
-          "padding": 4,
-          "font_size": 14,
-          "offset": [10, 130]
-      },
-      "sequence": [
-        {
-          "time": 300,
-          "stages": [
-            {"duration": 120, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 30, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Lifesteal",
-      "position": [1162, 134],
+      "name": "Melee Lifesteal 800",
+      "position": [657, 132],
       "size": [81, 128],
       "tooltip": {
-          "text": "For survival",
-          "bg_color": "rgba(0,0,0,255)",
-          "text_color": "white",
-          "border_radius": 8,
-          "padding": 4,
-          "font_size": 14,
-          "offset": [-10, -30]
-      },
-      "sequence": [
-        {
-          "time": 470,
-          "stages": [
-            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 30, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
-          ]
-        }
-      ]
-    },
-    {
-      "name": "+Damage",
-      "position": [659, 330],
-      "size": [166, 128],
-      "tooltip": {
-          "text": "In any order, the main \nitems of the build. \nThey give you the opportunity \nto participate in some fights",
-          "bg_color": "rgba(0,0,0,255)",
-          "text_color": "white",
-          "border_radius": 8,
-          "padding": 4,
-          "font_size": 14,
-          "offset": [-40, 130]
-      },
-      "sequence": [
-        {
-          "time": 530,
-          "stages": [
-            {"duration": 370, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 180, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
-          ]
-        }
-      ]
-    },
-    {
-      "name": "+Life",
-      "position": [827, 330],
-      "size": [248, 134],
-      "tooltip": {
-          "text": "They give survival \nFortitude - necessarily \nResilience one of two, \ndepending on the type of enemy damage.",
+          "text": "Damage + Life",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
@@ -186,21 +90,45 @@
       },
       "sequence": [
         {
-          "time": 530,
+          "time": 1,
           "stages": [
-            {"duration": 370, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 180, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 45, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
             {"duration": 9999, "color": "gray", "border": "2px solid gray"}
           ]
         }
       ]
     },
     {
-      "name": "Lucky Shot",
-      "position": [1236, 330],
-      "size": [81, 134],
+      "name": "Spirit Strike 1600",
+      "position": [740, 132],
+      "size": [81, 128],
       "tooltip": {
-          "text": "Chance for increased damage",
+          "text": "Increases the spirit \nmelee damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-20, -30]
+      },
+      "sequence": [
+        {
+          "time": 70,
+          "stages": [
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 45, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Close Quarters 2400",
+      "position": [825, 132],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "Increases damage in close range",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
@@ -210,31 +138,127 @@
       },
       "sequence": [
         {
-          "time": 1000,
+          "time": 150,
           "stages": [
-            {"duration": 240, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 60, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 30, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
             {"duration": 9999, "color": "gray", "border": "2px solid gray"}
           ]
         }
       ]
     },
     {
-      "name": "Escalating Resiliance",
-      "position": [1151, 330],
-      "size": [81, 134],
+      "name": "Melee Charge 4800",
+      "position": [658, 328],
+      "size": [81, 128],
       "tooltip": {
-          "text": "Chance for increased damage",
+          "text": "Allows you to fight and help the team",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
           "padding": 4,
           "font_size": 14,
-          "offset": [-70, 90]
+          "offset": [-70, -30]
       },
       "sequence": [
         {
-          "time": 1500,
+          "time": 210,
+          "stages": [
+            {"duration": 90, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 60, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green items (Speed) 6400",
+      "position": [742, 328],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "Either gradually or immediately, \nthe second one gives you the speed \nof movement",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-40, 130]
+      },
+      "sequence": [
+        {
+          "time": 210,
+          "stages": [
+            {"duration": 135, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 135, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "More Damage 11200",
+      "position": [911, 328],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "Survival + Damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [10, -30]
+      },
+      "sequence": [
+        {
+          "time": 460,
+          "stages": [
+            {"duration": 90, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 60, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phantom Strike 20800",
+      "position": [1192, 329],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "Teleport to the enemy \n+ slow down",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-40, -30]
+      },
+      "sequence": [
+        {
+          "time": 550,
+          "stages": [
+            {"duration": 250, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 250, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "+Damage 28000",
+      "position": [1276, 329],
+      "size": [166, 128],
+      "tooltip": {
+          "text": "In any order, the main \nitems of the build. \nA lot of damage close up + \njust a lot of damage",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-15, 130]
+      },
+      "sequence": [
+        {
+          "time": 1000,
           "stages": [
             {"duration": 180, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
             {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
@@ -244,17 +268,89 @@
       ]
     },
     {
-      "name": "Frenzy",
-      "position": [1319, 330],
-      "size": [81, 134],
+      "name": "+Life 31200",
+      "position": [1443, 329],
+      "size": [81, 128],
       "tooltip": {
-          "text": "There is more damage on low HP",
+          "text": "Protection from spiritualism. \nOr take Bullet Resilience",
           "bg_color": "rgba(0,0,0,255)",
           "text_color": "white",
           "border_radius": 8,
           "padding": 4,
           "font_size": 14,
-          "offset": [-70, 50]
+          "offset": [-5, 130]
+      },
+      "sequence": [
+        {
+          "time": 1200,
+          "stages": [
+            {"duration": 120, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weighted Shots 34400",
+      "position": [742, 523],
+      "size": [81, 128],
+      "tooltip": {
+          "text": "Makes you strong",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-30, 130]
+      },
+      "sequence": [
+        {
+          "time": 1400,
+          "stages": [
+            {"duration": 120, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Berserker 37600",
+      "position": [826, 523],
+      "size": [81, 134],
+      "tooltip": {
+          "text": "Allows you to tank",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-30, 90]
+      },
+      "sequence": [
+        {
+          "time": 1600,
+          "stages": [
+            {"duration": 120, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
+            {"duration": 120, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
+            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Counterspell 40800",
+      "position": [995, 523],
+      "size": [81, 134],
+      "tooltip": {
+          "text": "Parrying is your best friend",
+          "bg_color": "rgba(0,0,0,255)",
+          "text_color": "white",
+          "border_radius": 8,
+          "padding": 4,
+          "font_size": 14,
+          "offset": [-50, 130]
       },
       "sequence": [
         {
@@ -267,46 +363,8 @@
         }
       ]
     }
-,
-    {
-      "name": "Last Item",
-      "position": [742, 653],
-      "size": [166, 134],
-      "tooltip": {
-          "text": "Whatever you want, but \nI suggest one of these two: \n1) Non-resistance to magic \n2) Increased regen when dealing damage",
-          "bg_color": "rgba(0,0,0,255)",
-          "text_color": "white",
-          "border_radius": 8,
-          "padding": 4,
-          "font_size": 14,
-          "offset": [-50, 130]
-      },
-      "sequence": [
-        {
-          "time": 2000,
-          "stages": [
-            {"duration": 300, "color": "rgba(0,255,0,50)", "border": "2px solid green"},
-            {"duration": 300, "color": "rgba(255,255,0,50)", "border": "2px solid yellow"},
-            {"duration": 9999, "color": "gray", "border": "2px solid gray"}
-          ]
-        }
-      ]
-    }
   ],
   "events": [
-    {
-      "time": 1,
-      "text": "TEST",
-      "sound": "sounds/pre.wav",
-      "repeat_interval": 1,
-      "style": {
-          "color": "yellow",
-          "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
-          "padding": 6,
-          "border_radius": 8
-      }
-    },
     {
       "time": 105,
       "text": "After 15 s. - Spawn of small camps and boxes",
@@ -315,7 +373,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -328,7 +386,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -341,20 +399,20 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
     },
     {
-      "time": 245,
+      "time": 285,
       "text": "After 15 seconds - the rune spawn",
       "sound": "sounds/pre.wav",
       "repeat_interval": 300,
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -367,7 +425,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -380,7 +438,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -393,20 +451,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
-          "padding": 6,
-          "border_radius": 8
-      }
-    },
-    {
-      "time": 360,
-      "text": "Spawn Casino",
-      "sound": "sounds/now.wav",
-      "repeat_interval": 180,
-      "style": {
-          "color": "yellow",
-          "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -419,7 +464,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -432,7 +477,20 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 480,
+      "text": "Spawn Casino",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 180,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -444,7 +502,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }

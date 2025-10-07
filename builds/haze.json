@@ -302,7 +302,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -315,7 +315,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -328,7 +328,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -341,7 +341,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -354,7 +354,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -367,7 +367,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -380,20 +380,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
-          "padding": 6,
-          "border_radius": 8
-      }
-    },
-    {
-      "time": 360,
-      "text": "Spawn Casino",
-      "sound": "sounds/now.wav",
-      "repeat_interval": 180,
-      "style": {
-          "color": "yellow",
-          "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -406,7 +393,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -419,7 +406,20 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
+          "padding": 6,
+          "border_radius": 8
+      }
+    },
+    {
+      "time": 480,
+      "text": "Spawn Casino",
+      "sound": "sounds/now.wav",
+      "repeat_interval": 180,
+      "style": {
+          "color": "yellow",
+          "bg_color": "rgba(0,0,0,200)",
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
@@ -431,7 +431,7 @@
       "style": {
           "color": "yellow",
           "bg_color": "rgba(0,0,0,200)",
-          "font_size": 14,
+          "font_size": 18,
           "padding": 6,
           "border_radius": 8
       }
