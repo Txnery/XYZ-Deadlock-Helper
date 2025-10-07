@@ -23,40 +23,43 @@ Keyboard shortcuts:
 - "END" - pause timer
 
 # Preview
-![Timer]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/1.png)) <br>
-![Event Notification]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/2.png)) <br>
-![Build Helper]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/3.png)) <br>
+## Build Helper
+![Build Helper](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/3.png?raw=true) <br>
+## Event Notification
+![Event Notification](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/2.png?raw=true) <br>
+## Timer
+![Timer](https://github.com/Txnery/XYZ-Deadlock-Helper/blob/main/preview/1.png?raw=true) <br>
 
 # For Build Creators
 Names used for JSON / Names from the game
 
-archer<br>
-astro<br>
+archer - Talon<br>
+astro - Holliday<br>
 bebop - Bebop<br>
-bookworm<br>
+bookworm - Paige<br>
 bull - Abrams<br>
-chrono<br>
-digger<br>
+chrono - Paradox<br>
+digger - Mo & Krill<br>
 doorman - Doorman<br>
 drifter - Drifter<br>
-engineer<br>
-frank<br>
+engineer - McGinnis<br>
+frank - Victor<br>
 gigawatt - Seven<br>
 haze - Haze<br>
 hornet - Vindicta<br>
 inferno - Infernus<br>
-kali<br>
+kali - Vyper<br>
 kelvin - Kelvin<br>
 lash - Lash<br>
-magician<br>
+magician - Sinclair<br>
 mirage - Mirage<br>
-nano<br>
+nano - Calico<br>
 punkgoat - Billy<br>
 shiv - Shiv<br>
-spectre<br>
-sumo<br>
-synth<br>
-tengu<br>
+spectre - Lady Geist<br>
+sumo - Dynamo<br>
+synth - Pocket<br>
+tengu - Ivy<br>
 vampirebat - Mina<br>
 viscous - Viscous<br>
 warden - Warden<br>
@@ -76,6 +79,7 @@ Twitch: Valtheriss
 
 # License
 Please view the license section for more details.
+
 
 
 
