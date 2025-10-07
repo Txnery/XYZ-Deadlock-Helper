@@ -1,0 +1,177 @@
+End-User License Agreement ("Agreement")
+Last updated: October 06, 2025
+
+Please read this End-User License Agreement carefully before downloading 
+or using XYZ Deadlock Helper.
+
+Interpretation and Definitions
+------------------------------
+
+Interpretation
+~~~~~~~~~~~~~~
+
+The words whose initial letters are capitalized have meanings defined under
+the following conditions. The following definitions shall have the same
+meaning regardless of whether they appear in singular or in plural.
+
+Definitions
+~~~~~~~~~~~
+
+For the purposes of this End-User License Agreement:
+
+* Agreement means this End-User License Agreement that forms the entire
+  agreement between You and the Licensor regarding the use of the
+  Application.
+
+* Application means the software program provided by the Licensor downloaded
+  by You to a Device, named XYZ Deadlock Helper
+
+* Licensor (referred to as "we", "us", or "our") refers to the author of the 
+  Application.
+
+* Content refers to content such as text, images, or other information that
+  can be posted, uploaded, linked to or otherwise made available by You,
+  regardless of the form of that content.
+
+* Device means any device that can access the Application such as a
+  computer or a digital tablet.
+
+* Third-Party Services means any services or content (including data,
+  information, applications and other products services) provided by a
+  third-party that may be displayed, included or made available by the
+  Application.
+
+* You means the individual accessing or using the Application or the
+  company, or other legal entity on behalf of which such individual is
+  accessing or using the Application, as applicable.
+
+* Build Data refers to JSON configuration files, hero builds, item sequences,
+  and other game-related data used by the Application.
+
+* User Content refers to Build Data, sound files, images, and other materials
+  created or modified by You for use with the Application.
+
+Acknowledgment
+--------------
+
+By clicking the "I Agree" button, downloading or using the Application, You
+are agreeing to be bound by the terms and conditions of this Agreement. If You
+do not agree to the terms of this Agreement, do not click on the "I Agree"
+button, do not download or do not use the Application.
+
+This Agreement is a legal document between You and the Licensor and it governs
+your use of the Application made available to You by the Licensor.
+
+The Application is licensed, not sold, to You by the Licensor for use strictly
+in accordance with the terms of this Agreement.
+
+License
+-------
+
+Scope of License
+~~~~~~~~~~~~~~~~
+
+The Licensor grants You a revocable, non-exclusive, non-transferable, limited 
+license to download, install and use the Application strictly in accordance 
+with the terms of this Agreement, solely for your personal, non-commercial purposes.
+
+Permitted Uses:
+✓ Use the Application for personal gaming assistance
+✓ Create, modify, and distribute Build Data (JSON files)
+✓ Replace or modify sound files included with the Application
+✓ Create and share hero builds and configuration files
+
+Prohibited Uses:
+✗ Modify, decrypt, reverse compile, or reverse engineer the Application source code
+✗ Sell, transmit, host, or otherwise commercially exploit the Application
+✗ Distribute modified versions of the Application executable
+✗ Use the Application for any illegal or unauthorized purpose
+✗ Remove any copyright or proprietary notices from the Application
+
+Intellectual Property
+~~~~~~~~~~~~~~~~~~~~~
+
+The Application, including but not limited to its source code, executable files,
+graphical interface, and core software architecture, is the exclusive intellectual 
+property of the Licensor.
+
+User Content that You create (including Build Data JSON files and modified sound files) 
+remains your property, however, by creating such content You grant the Licensor a 
+non-exclusive license to use, display, and distribute such content in connection 
+with the Application.
+
+Trademarks and Logos
+~~~~~~~~~~~~~~~~~~~~
+
+All trademarks, service marks, logos, trade names, and any other proprietary 
+designations ("Marks") used in connection with the Application are the property 
+of their respective owners. This includes, but is not limited to:
+
+- "XYZ" name and logo
+- "XYZ Deadlock Helper" name and logo  
+- All graphical elements, icons, and branding materials
+- Any other trademarks and logos displayed in the Application
+
+You are not granted any right or license to use any Marks, whether of the Licensor 
+or third parties, without the prior written permission of the respective owners.
+
+The "Deadlock" game name, characters, and related assets are the property of 
+their respective owners and are used in this Application for informational 
+purposes only. This Application is not officially affiliated with or endorsed 
+by the game developers.
+
+User Content that You create (including Build Data JSON files and modified sound files) 
+remains your property, however, by creating such content You grant the Licensor a 
+non-exclusive license to use, display, and distribute such content in connection 
+with the Application.
+
+Updates and Modifications
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Licensor may regularly update the Application with new features, bug fixes, 
+or other improvements at its sole discretion.
+
+You are permitted to create and distribute modifications to Build Data and sound 
+files, but not to the core Application software.
+
+Use at Your Own Risk
+--------------------
+
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+WITH THE APPLICATION OR THE USE OR OTHER DEALINGS IN THE APPLICATION.
+
+By using the Application, you agree that the Licensor shall not be liable 
+for any damages, including loss of data, lost profits, or other harms 
+arising from your use or inability to use the Application, to the 
+maximum extent allowed by applicable law.
+
+Termination
+~~~~~~~~~~~
+
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice from the Licensor if you fail to comply 
+with any term(s) of this license. Upon termination, you must cease all use of 
+the Application and destroy all copies of it.
+
+Governing Law
+~~~~~~~~~~~~~
+
+This Agreement shall be governed by and construed in accordance with the laws 
+of [Your Country/State], without regard to its conflict of law provisions.
+
+Contact Information
+~~~~~~~~~~~~~~~~~~~
+
+If you have any questions about this Agreement, please contact us at:
+[Your Email Address]
+
+Entire Agreement
+~~~~~~~~~~~~~~~~
+
+This Agreement constitutes the entire agreement between You and the Licensor 
+regarding the Application and supersedes all prior agreements and understandings, 
+whether written or oral.
