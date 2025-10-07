@@ -8,9 +8,19 @@ XYZ Deadlock Helper desktop application, which will help you learn how to play D
 
 To use:
 - Download the latest stable version of XYZ Deadlock Helper
+- Download the build for the desired character from the repository (builds/)
+- Put it in the builds/ folder next to the exe file
 - Run the app
-- Choose a character
-- Run overlay
+- Choose a character and build
+- Copy ingame build ID
+- Search build in game
+- Start game
+- Run overlay when the timer is 0.1 in the match
+
+Keyboard shortcuts:
+- "B" - open/close shop
+- "ESC" - close shop
+- "END" - pause timer
 
 # Preview
 ...
@@ -66,5 +76,6 @@ Twitch: Valtheriss
 
 # License
 Please view the license section for more details.
+
 
 
